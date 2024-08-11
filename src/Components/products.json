@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "img": "image/product-img/b-1.jpg",
+    "name": "Sofas",
+    "price": 800,
+    "title": "Brown Asthetic Sofa",
+    "amount": 1
+  },
+  {
+    "id": 2,
+    "img": "image/product-img/b-2.jpg",
+    "name": "Sofas",
+    "price": 4000,
+    "title": "Modern 7-Seat Modular Sofa Round",
+    "amount": 1
+  },
+  {
+    "id": 3,
+    "img": "image/product-img/b-3.jpg",
+    "name": "Sofas",
+    "price": 700,
+    "title": "White Premium Quality Round Sofa",
+    "amount": 1
+  },
+  {
+    "id": 4,
+    "img": "image/product-img/b-4.jpg",
+    "name": "Sofas",
+    "price": 3000,
+    "title": "Antique Silver-Gold Sofa",
+    "amount": 1
+  },
+  {
+    "id": 5,
+    "img": "image/product-img/r-1.jpg",
+    "name": "Mirrors",
+    "price": 350,
+    "title": "Round Mirror with LED Light",
+    "amount": 1
+  },
+  {
+    "id": 6,
+    "img": "image/product-img/r-2.jpg",
+    "name": "Mirrors",
+    "price": 300,
+    "title": "Rectangular mirror with Stone Border",
+    "amount": 1
+  },
+  {
+    "id": 7,
+    "img": "image/product-img/r-3.jpg",
+    "name": "Mirrors",
+    "price": 400,
+    "title": "Marble Border Mirror",
+    "amount": 1
+  },
+  {
+    "id": 8,
+    "img": "image/product-img/r-4.jpg",
+    "name": "Mirrors",
+    "price": 600,
+    "title": "Floral Round Mirror",
+    "amount": 1
+  },
+  {
+    "id": 9,
+    "img": "image/product-img/e-1.jpg",
+    "name": "Chandeliers",
+    "price": 700,
+    "title": "Falling Drops Chandelier",
+    "amount": 1
+  },
+  {
+    "id": 10,
+    "img": "image/product-img/e-2.jpg",
+    "name": "Chandeliers",
+    "price": 600,
+    "title": "Golden Chandelier",
+    "amount": 1
+  },
+  {
+    "id": 11,
+    "img": "image/product-img/e-3.jpg",
+    "name": "Chandeliers",
+    "price": 500,
+    "title": "Modern Chandelier",
+    "amount": 1
+  },
+  {
+    "id": 12,
+    "img": "image/product-img/e-4.jpg",
+    "name": "Chandeliers",
+    "price": 550,
+    "title": "Contemporary Flower Chandelier",
+    "amount": 1
+  }
+]
